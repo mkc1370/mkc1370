@@ -6,7 +6,7 @@
 ときどきお仕事をしている学生です。
 最近はUnity, C#, 3DGC, 配信, VR, VRChat, ネットワークに興味があります。
 
-VRChatにハマっていて、nullちゃんというオリジナルアバターを使っています。[nullちゃんについて](https://mkc1370.notion.site/mkc1370/null-9d4a3a0aa39c4f72bf6a7d07aace45e0)
+VRChatではnullちゃんというオリジナルアバターを使っています。[nullちゃんについて](https://mkc1370.notion.site/mkc1370/null-9d4a3a0aa39c4f72bf6a7d07aace45e0)
 
 ## リンク一覧
 |サービス名|リンク|
