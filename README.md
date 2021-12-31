@@ -1,1 +1,1 @@
-# [こちら](https://mkc1370.github.io/Portfolio/)に移行しました
+# [こちら](https://portfolio.mkc1370.com)に移行しました
