@@ -80,4 +80,12 @@ VRChatではnullちゃんというオリジナルアバターを使っていま�
 |2017<br>&nbsp;-2018/3|Web関係企業|Web開発・保守, 仕様書・設計書作成, ネットワーク|
 |2018/8<br>&nbsp;-2020/2|いちから株式会社<br>（現 ANYCOLOR株式会社）|Unity, モーションキャプチャ<br>[公開実績1（にじ3D）](https://prtimes.jp/main/html/rd/p/000000035.000030865.html), [公開実績2（モザイクアート）](https://twitter.com/mkc1370/status/1110890898953404416)|
 |2020/7<br>&nbsp;-2020/9|研究機関|脳波関係のシステム開発・共同研究|
-|2020/10<br>&nbsp;-2021/11|VR関係企業|VR・リアルタイムネットワーク フロントエンド（Unity）|
+|2020/10-2022/4|フリーランス||
+
+# フリーランスのお仕事
+
+|年月|名前|担当箇所等|リンク|
+|-|-|-|-|
+|2020/10<br>&nbsp;-2021/11|VRアプリケーション|リアルタイムネットワーク・フロントエンド（Unity）|
+|2022/2|VALIS - Teaser #2.22|Unity技術周り|[YouTube](https://www.youtube.com/watch?v=W423v9anl78)|
+|2022/3|花譜卒業記念スペシャルライブ|Lead Developer<br>ライブシステム・バンドメンバーのボリュメトリックキャプチャシステム開発|[Twitter](https://twitter.com/mkc1370/status/1507705953692491776),<br>[Z-aN](https://www.zan-live.com/live/detail/10164)|
