@@ -35,6 +35,25 @@ VRChatではnullちゃんというオリジナルアバターを使っていま�
 |2015|基本情報技術者試験|
 |2016|応用情報技術者試験|
 
+# 経歴
+
+|年月|所属等|詳細|
+|-|-|-|
+|2017/4<br>&nbsp;-|東京農工大学|工学部 情報工学科|
+|2017<br>&nbsp;-2017|SES企業|POS・サーバー保守, 社内システム保守|
+|2017<br>&nbsp;-2018/3|Web関係企業|Web開発・保守, 仕様書・設計書作成, ネットワーク|
+|2018/8<br>&nbsp;-2020/2|いちから株式会社<br>（現 ANYCOLOR株式会社）|Unity, モーションキャプチャ<br>[公開実績1（にじ3D）](https://prtimes.jp/main/html/rd/p/000000035.000030865.html), [公開実績2（モザイクアート）](https://twitter.com/mkc1370/status/1110890898953404416)|
+|2020/7<br>&nbsp;-2020/9|研究機関|脳波関係のシステム開発・共同研究|
+|2020/10-2022/4|フリーランス||
+
+# フリーランスのお仕事
+
+|年月|名前|担当箇所等|リンク|
+|-|-|-|-|
+|2020/10<br>&nbsp;-2021/11|VRアプリケーション|リアルタイムネットワーク・フロントエンド（Unity）|
+|2022/2|VALIS - Teaser #2.22|Unity技術周り|[YouTube](https://www.youtube.com/watch?v=W423v9anl78)|
+|2022/3|花譜卒業記念スペシャルライブ|Lead Developer<br>ライブシステム・バンドメンバーのボリュメトリックキャプチャシステム開発|[Twitter](https://twitter.com/mkc1370/status/1507705953692491776),<br>[Z-aN](https://www.zan-live.com/live/detail/10164)|
+
 # 趣味で作ったもの
 
 ## VRChat
@@ -70,22 +89,3 @@ VRChatではnullちゃんというオリジナルアバターを使っていま�
 |2017|SLAM|Python, Tensorflow, Realsense||
 |2017|分散型メモリキャッシュシステム|C++, TCP, マルチスレッド||
 |2020/3|競プロ用プラグイン（Rider）|Rider, IntelliJ Platform SDK, kotlin, 構文解析, C#|[ツイート](https://twitter.com/mkc1370/status/1244235091607318529)|
-
-# 経歴
-
-|年月|所属等|詳細|
-|-|-|-|
-|2017/4<br>&nbsp;-|東京農工大学|工学部 情報工学科|
-|2017<br>&nbsp;-2017|SES企業|POS・サーバー保守, 社内システム保守|
-|2017<br>&nbsp;-2018/3|Web関係企業|Web開発・保守, 仕様書・設計書作成, ネットワーク|
-|2018/8<br>&nbsp;-2020/2|いちから株式会社<br>（現 ANYCOLOR株式会社）|Unity, モーションキャプチャ<br>[公開実績1（にじ3D）](https://prtimes.jp/main/html/rd/p/000000035.000030865.html), [公開実績2（モザイクアート）](https://twitter.com/mkc1370/status/1110890898953404416)|
-|2020/7<br>&nbsp;-2020/9|研究機関|脳波関係のシステム開発・共同研究|
-|2020/10-2022/4|フリーランス||
-
-# フリーランスのお仕事
-
-|年月|名前|担当箇所等|リンク|
-|-|-|-|-|
-|2020/10<br>&nbsp;-2021/11|VRアプリケーション|リアルタイムネットワーク・フロントエンド（Unity）|
-|2022/2|VALIS - Teaser #2.22|Unity技術周り|[YouTube](https://www.youtube.com/watch?v=W423v9anl78)|
-|2022/3|花譜卒業記念スペシャルライブ|Lead Developer<br>ライブシステム・バンドメンバーのボリュメトリックキャプチャシステム開発|[Twitter](https://twitter.com/mkc1370/status/1507705953692491776),<br>[Z-aN](https://www.zan-live.com/live/detail/10164)|
