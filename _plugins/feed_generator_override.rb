@@ -1,4 +1,3 @@
-# ref : https://github.com/jekyll/minima/issues/562#issuecomment-735120020
 # frozen_string_literal: true
 
 module JekyllFeed
