@@ -1,6 +1,8 @@
 title: test
 
 remote_theme: jekyll/minima
+minima:
+  skin: dark
 
 permalink: none
 
