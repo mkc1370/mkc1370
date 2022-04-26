@@ -1,6 +1,7 @@
 title: mkc1370
 
 remote_theme: jekyll/minima
+
 minima:
   skin: dark
   social_links:
