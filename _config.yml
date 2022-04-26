@@ -1,4 +1,5 @@
-theme: minima
+remote_theme: jekyll/minima
+
 title: mkc1370's Profile
 
 permalink: none
@@ -9,3 +10,4 @@ plugins:
  - jekyll-seo-tag
  - jekyll-sitemap
  - jekyll-feed
+ - jekyll-remote-theme
