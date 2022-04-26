@@ -3,6 +3,9 @@ title: test
 remote_theme: jekyll/minima
 minima:
   skin: dark
+  social_links:
+    twitter: mkc1370
+    github: mkc1370
 
 permalink: none
 
