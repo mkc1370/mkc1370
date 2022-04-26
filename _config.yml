@@ -1,2 +1,9 @@
 theme: jekyll-theme-slate
 title: mkc1370's Profile
+
+permalink: none
+
+plugins:
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-feed
