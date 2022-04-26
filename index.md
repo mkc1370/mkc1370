@@ -3,7 +3,6 @@ title: Profile
 description: mkc1370のプロフィールページです
 lang: ja_JP
 ---
-## 自己紹介
 ときどきお仕事をしている学生です。
 最近はUnity, C#, 3DGC, 配信, VR, VRChat, ネットワークに興味があります。
 
