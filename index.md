@@ -1,5 +1,4 @@
 ---
-layout: toppage
 title: mkc1370's Profile
 description: mkc1370のプロフィールページです
 lang: ja_JP
