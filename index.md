@@ -1,3 +1,9 @@
+---
+layout: toppage
+title: mkc1370's Profile
+description: mkc1370のプロフィールページです
+lang: ja_JP
+---
 ## はじめに
 自己紹介や最近やったこと（一般公開できるもの）をまとめています。
 ご連絡等がありましたら[Twitter](https://twitter.com/mkc1370)へDMをお願いします。
