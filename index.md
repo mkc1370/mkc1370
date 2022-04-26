@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Profile
 description: mkc1370のプロフィールページです
 lang: ja_JP
