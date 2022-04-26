@@ -1,14 +1,14 @@
-# はじめに
+## はじめに
 自己紹介や最近やったこと（一般公開できるもの）をまとめています。
 ご連絡等がありましたら[Twitter](https://twitter.com/mkc1370)へDMをお願いします。
 
-# 自己紹介
+## 自己紹介
 ときどきお仕事をしている学生です。
 最近はUnity, C#, 3DGC, 配信, VR, VRChat, ネットワークに興味があります。
 
 VRChatではnullちゃんというオリジナルアバターを使っています。[nullちゃんについて](https://mkc1370.notion.site/mkc1370/null-9d4a3a0aa39c4f72bf6a7d07aace45e0)
 
-## リンク一覧
+### リンク一覧
 
 |サービス名|リンク|
 |-|-|
@@ -18,7 +18,7 @@ VRChatではnullちゃんというオリジナルアバターを使っていま�
 |VRChat|[mkc1370](https://vrchat.com/home/user/usr_dd665aa2-3cf8-4ae4-9d71-5a95d2f49b7e)|
 |Discord|mkc1370#0001|
 
-## スキルセット
+### スキルセット
 
 |レベル|スキル|
 |-|-|
@@ -28,14 +28,14 @@ VRChatではnullちゃんというオリジナルアバターを使っていま�
 |趣味+|Vim, C++（MSVC）, C, Blender, 3Dプリンタ, マッチムーブ, OpenCV|
 |趣味|セキュリティ, Web制作（LAMP）, 最適化（アルゴリズム）, Python, TensorFlow, 電子工作|
 
-## 資格
+### 資格
 
 |取得年|資格名|
 |-|-|
 |2015|基本情報技術者試験|
 |2016|応用情報技術者試験|
 
-# 経歴
+## 経歴
 
 |年月|所属等|詳細|
 |-|-|-|
@@ -46,7 +46,7 @@ VRChatではnullちゃんというオリジナルアバターを使っていま�
 |2020/7<br>&nbsp;-2020/9|研究機関|脳波関係のシステム開発・共同研究|
 |2020/10-2022/4|フリーランス||
 
-# フリーランスのお仕事
+## フリーランスのお仕事
 
 |年月|名前|担当箇所等|リンク|
 |-|-|-|-|
@@ -54,9 +54,9 @@ VRChatではnullちゃんというオリジナルアバターを使っていま�
 |2022/2|VALIS - Teaser #2.22|Unity技術周り|[YouTube](https://www.youtube.com/watch?v=W423v9anl78)|
 |2022/3|花譜卒業記念スペシャルライブ|Lead Developer<br>ライブシステム・バンドメンバーのボリュメトリックキャプチャシステム開発|[Twitter](https://twitter.com/mkc1370/status/1507705953692491776)<br>[Z-aN](https://www.zan-live.com/live/detail/10164)|
 
-# 趣味で作ったもの
+## 趣味で作ったもの
 
-## VRChat
+### VRChat
 
 |制作年月|名前|概要|リンク|
 |-|-|-|-|
@@ -69,7 +69,7 @@ VRChatではnullちゃんというオリジナルアバターを使っていま�
 |2021/6|プリクラギミック|複数人でプリクラができるギミック|[Qiita](https://qiita.com/mkc1370/items/1f311a8944f9ff627202)|
 |2021/6|シャオンサンプルアバター作成|AV3に対応や色変えギミック作成|[Twitter](https://twitter.com/mkc1370/status/1403377291619536896)|
 
-## Unity
+### Unity
 
 |制作年月|名前|技術|リンク|
 |-|-|-|-|
@@ -78,7 +78,7 @@ VRChatではnullちゃんというオリジナルアバターを使っていま�
 |2019/5|ポリゴンリダクション|最適化, BlendShape|[Twitter](https://twitter.com/mkc1370/status/1126118019225100288)|
 |2020|モーションキャプチャ配信|Perception Neuron Studio, Axis Studio, YouTube Data API||
 
-## その他
+### その他
 
 |制作年月|名前|技術|リンク|
 |-|-|-|-|
